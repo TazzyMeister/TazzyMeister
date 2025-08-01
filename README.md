@@ -7,7 +7,7 @@ Currently interested in learning skills in **React, TypeScript, and JavaScript**
 
 ## Featured Projects
 
-### [CDP Points Tracker](link-to-repo)
+### [CPD Points Tracker](link-to-repo)
 Professional dashboard for tracking Continuous Development Points with analytics
 - **Tech:** React, TypeScript, Chart.js
 - **Features:** Progress tracking, data export, dashboard analytics
