@@ -17,9 +17,6 @@ Interactive React app where users create their ultimate Taylor Swift playlist th
 - **Tech:** Flutter
 - **Features:** Multi-round voting, data visualization, responsive design
 
-## GitHub Stats
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=TazzyMeister&show_icons=true&theme=radical)
-
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-butt-b31262190/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wesleyabutt@gmail.com)
